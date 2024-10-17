@@ -22,6 +22,7 @@ Overview of Findings
 The analysis of British Airways' reviews, covering multiple dimensions such as cabin staff service, entertainment, food, and seat comfort, reveals a mixed performance. The average overall rating stands at 4.2, indicating a generally positive but somewhat inconsistent customer experience. Several key areas, such as entertainment and value for money, show low satisfaction levels, while aircraft-specific ratings demonstrate notable variability in passenger satisfaction across different plane models.
 ![Overview](https://github.com/user-attachments/assets/19b4cdba-d79d-4067-917b-fc947824cf6c)
 The actual dashboard can be found here:https://github.com/Rweya/Portfolio_Projects/blob/e013701ff56773d27fb124cc4727765b7632bf05/British%20Airways%20%20Reviews%20(tableau%20project%202).twbx
+
 Short Trends:
 1.	Fluctuating Overall Ratings (2016 - 2023):
 o	Ratings have shown significant fluctuation over the years, with a sharp decline observed around 2020-2021, likely due to the COVID-19 pandemic. There has been some recovery since then, but ratings have not fully returned to pre-pandemic levels.
