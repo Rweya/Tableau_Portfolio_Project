@@ -1,7 +1,9 @@
 Project Background
+
 This project is a comprehensive analysis of airline customer reviews spanning from March 2016 to October 2023. It tracks customer satisfaction based on several metrics, such as overall rating, cabin staff service, entertainment, ground service, and seat comfort. The dashboard aggregates ratings across different seat types (Business Class, Economy Class, First Class, and Premium Economy), and traveler types (Business, Solo Leisure, Couple Leisure, etc.). Additionally, it provides insights into how aircraft models and regions (countries) affect overall customer ratings.
 
 Key Insights and Recommendations:
+
 1. Overall Rating Trend (By Month):
 The ratings fluctuate over time, with some noticeable peaks and troughs between 2017 and 2023. The overall trend indicates that while customer satisfaction has moments of improvement, there have been consistent dips.
 
